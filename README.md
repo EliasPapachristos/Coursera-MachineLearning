@@ -1,2 +1,3 @@
 # Coursera-MachineLearning
-Coursera's course for Machine Learning
+
+It's my work on Machine Learning Coursera's Course from Stanford University
